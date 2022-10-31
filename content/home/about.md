@@ -1,11 +1,12 @@
 ---
 widget: about
+active: true
+author: admin
 widget_id: Theophile Thiery
 headless: true
 weight: 20
-title: Background
-active: true
-author: admin
+title: Theophile Thiery
+subtitle: Final Year Ph.D. Student at Queen Mary University of London
 design:
   background:
     text_color_light: true
