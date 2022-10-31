@@ -51,6 +51,13 @@ R﻿ed colored text\
 {{< highlight go >}} A bunch of code here {{< /highlight >}}\
 <font color='red'>test blue color font</font>\
 **My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }\
+$$\color{red}{your-text-here}$$\
+\﻿
+{{< math >}}
+$$
+\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^2}
+$$
+{{< /math >}}
 
 A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the computational complexity and the approximability of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice and devising fast and efficient algorithms.
 
