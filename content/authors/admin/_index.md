@@ -7,7 +7,7 @@ interests: []
 social:
   - icon: envelope
     icon_pack: fas
-    link: /#contact
+    link: t.f.thiery@qmul.ac.uk
   - icon: twitter
     icon_pack: fab
     link: https://twitter.com/GeorgeCushen
@@ -24,19 +24,19 @@ social:
     icon_pack: fab
     link: https://www.linkedin.com/
 organizations:
-  - name: Stanford University
-    url: https://www.stanford.edu/
+  - name: School of Mathematical Sciences, Queen Mary University of London
+    url: https://www.qmul.ac.uk/maths/
 education:
   courses:
     - course: PhD in Artificial Intelligence
-      institution: Stanford University
-      year: 2012
-    - course: MEng in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2009
-    - course: BSc in Artificial Intelligence
-      institution: Massachusetts Institute of Technology
-      year: 2008
+      institution: Queen Mary University of London, QMUL
+      year: 2021
+    - course: Master of Science in Applied Mathematics
+      institution: Ecole Polytechnique Fédérale de Lausanne
+      year: 2019
+    - course: Bachelor of Science in Mathematics
+      institution: Ecole Polytechnique Fédérale de Lausanne
+      year: 2017
 superuser: true
 last_name: Bighetti
 highlight_name: true
