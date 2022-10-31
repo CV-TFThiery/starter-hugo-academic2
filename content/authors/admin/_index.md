@@ -51,7 +51,7 @@ R﻿ed colored text\
 {{< highlight go >}} A bunch of code here {{< /highlight >}}\
 <font color='red'>test blue color font</font>\
 **My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }\
-$$\color{red}{your-text-here}$$\
+$\color{red}{\textrm{your-text-here}}$
 \﻿
 {{< math >}}
 $$
