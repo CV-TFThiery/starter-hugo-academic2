@@ -22,7 +22,7 @@ social:
     link: https://github.com/gcushen
   - icon: linkedin
     icon_pack: fab
-    link: https://www.linkedin.com/
+    link: https://www.linkedin.com/in/theophilethiery/
 organizations:
   - name: School of Mathematical Sciences, Queen Mary University of London
     url: https://www.qmul.ac.uk/maths/
