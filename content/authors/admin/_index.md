@@ -9,7 +9,7 @@ social:
     icon_pack: fas
     link: t.f.thiery@qmul.ac.uk
   - icon: graduation-cap
-    icon_pack: ai
+    icon_pack: fas
     link: https://scholar.google.com/citations?user=7POwjcUAAAAJ&hl=en&oi=ao
   - icon: linkedin
     icon_pack: fab
