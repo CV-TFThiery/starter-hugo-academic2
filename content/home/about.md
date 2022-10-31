@@ -3,7 +3,7 @@ widget: about
 widget_id: Theophile Thiery
 headless: true
 weight: 20
-title: Biography
+title: Background
 active: true
 author: admin
 design:
