@@ -10,5 +10,5 @@ subtitle: Final Year Ph.D. Student at Queen Mary University of London
 design:
   background:
     text_color_light: true
-    color: "#ff0000"
+    color: "#000000"
 ---
