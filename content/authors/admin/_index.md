@@ -47,6 +47,6 @@ My research interests include <p>{{style="color: red"} **approximation algorithm
 \
 A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the computational complexity and the approximability of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice and devising fast and efficient algorithms.
 
-In effect, the frontier between these two axes is imprecise and some of my research projects are hybrid. I enjoy theoretical problems with a twist coming from machine learning applications, whether it is motivated by the growth of modern datasets modeled in theory by "streaming, distributed, and online settings" or by artificial intelligence with the recent development of "learning augmented algorithm". {{<hl>} fd { < \hl >}}
+In effect, the frontier between these two axes is imprecise and some of my research projects are hybrid. I enjoy theoretical problems with a twist coming from machine learning applications, whether it is motivated by the growth of modern datasets modeled in theory by "streaming, distributed, and online settings" or by artificial intelligence with the recent development of "learning augmented algorithm". {{<hl>}}fd{{ < \hl >}}
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-tfthiery.pdf" "newtab" >}}resumé{{< /staticref >}}
