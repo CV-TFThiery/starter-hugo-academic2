@@ -3,10 +3,7 @@ title: Theophile Thiery
 role: Final Year Ph.D. Student at Queen Mary University of London
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
-interests:
-  - Artificial Intelligence
-  - Computational Linguistics
-  - Information Retrieval
+interests: []
 social:
   - icon: envelope
     icon_pack: fas
@@ -46,9 +43,10 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
+My research interests include **approximation algorithms and combinatorial optimization**. More specifically, I am particularly interested in the design of efficient algorithms with provable guarantees for problems motivated by theory, data analysis, and machine learning applications.\
+\
+A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the computational complexity and the approximability of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice as well as devising fast and efficient algorithms.
 
-Alice Bighetti is a professor of artificial intelligence at the Stanford AI Lab. Her research interests include distributed robotics, mobile computing and programmable matter. She leads the Robotic Neurobiology group, which develops self-reconfiguring robots, systems of self-organizing robots, and mobile sensor networks.
-
-Lorem ipsum dolor sit amet, consectetur adipiscing elit. Sed neque elit, tristique placerat feugiat ac, facilisis vitae arcu. Proin eget egestas augue. Praesent ut sem nec arcu pellentesque aliquet. Duis dapibus diam vel metus tempus vulputate.
+In effect, the frontier between these two axes is imprecise and some of my research projects are hybrid. I enjoy theoretical problems with a twist coming from machine learning applications, whether it is motivated by the growth of modern datasets modeled in theory by "streaming, distributed, and online settings" or by artificial intelligence with the recent development of "learning augmented algorithm".
 
 {{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
