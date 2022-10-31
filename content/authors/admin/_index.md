@@ -1,6 +1,7 @@
 ---
 title: Theophile Thiery
 role: Final Year Ph.D. Student at Queen Mary University of London
+avatar_filename: dsc02048-copie.png
 bio: My research interests include distributed robotics, mobile computing and
   programmable matter.
 interests: []
