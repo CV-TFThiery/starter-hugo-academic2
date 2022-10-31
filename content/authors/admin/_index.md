@@ -45,7 +45,7 @@ email: ""
 ---
 <div style="text-align: justify"> My research interests include <font color='red'> <b>approximation algorithms and combinatorial optimization</b> </font>. More specifically, I am particularly interested in the design of efficient algorithms with provable guarantees for problems motivated by theory, data analysis, and machine learning applications. </div>
 
-<div style="text-align: justify"> A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the <u> computational complexity and the approximability</u> of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice and devising fast and efficient algorithms.</div>
+<﻿p> <div style="text-align: justify"> A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the <u> computational complexity and the approximability</u> of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice and devising fast and efficient algorithms.</div></p>
 
 <div style="text-align: justify"> In effect, the separation between these two axes is imprecise and some of my research is hybrid. I enjoy theoretical problems with a twist coming from machine learning applications, whether it is motivated by the growth of modern datasets modeled in theory by <i>streaming, distributed, and online settings</i> or by AI attempting to go beyond worst-case analysis with, for instance, <i>learning augmented algorithms</i>.</div>
 
