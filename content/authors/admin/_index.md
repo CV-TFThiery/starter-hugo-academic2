@@ -50,4 +50,4 @@ A large body of my research is devoted to classical combinatorial optimization,
 
 In effect, the frontier between these two axes is imprecise and some of my research projects are hybrid. I enjoy theoretical problems with a twist coming from machine learning applications, whether it is motivated by the growth of modern datasets modeled in theory by "streaming, distributed, and online settings" or by artificial intelligence with the recent development of "learning augmented algorithm".
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/demo_resume.pdf" "newtab" >}}resumé{{< /staticref >}}.
+{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-tfthiery.pdf" "newtab" >}}resumé{{< /staticref >}}
