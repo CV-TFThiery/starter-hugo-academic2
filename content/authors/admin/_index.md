@@ -48,18 +48,7 @@ email: ""
 
 <div style="text-align: justify"> A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the computational complexity and the approximability of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice and devising fast and efficient algorithms.</div>
 
-<div style="text-align: justify">In effect, the frontier between these two axes is imprecise and some of my research projects are hybrid. I enjoy theoretical problems with a twist coming from machine learning applications, whether it is motivated by the growth of modern datasets modeled in theory by "streaming, distributed, and online settings" or by artificial intelligence with the recent development of "learning augmented algorithm".</div> {{<hl>}}fdfjljhljlj{{ < \hl >}}ds
+<div style="text-align: justify">In effect, the frontier between these two axes is imprecise and some of my research projects are hybrid. I enjoy theoretical problems with a twist coming from machine learning applications, whether it is motivated by the growth of modern datasets modeled in theory by "streaming, distributed, and online settings" or by artificial intelligence with the recent development of "learning augmented algorithm".</div>
 
-{{< icon name="download" pack="fas" >}} Download my {{< staticref "uploads/cv-tfthiery.pdf" "newtab" >}}resumé{{< /staticref >}}
+{{< icon name="download" pack="fas">}}Download my {{< staticref "uploads/cv-tfthiery.pdf" "newtab">}}resumé{{< /staticref >}}
 
-{{< highlight go >}} A bunch of code here {{< /highlight >}}\
-<font color='red'>test blue color font</font>\
-**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }\
-$\color{red}{\textrm{your-text-here}}$
-
-$$
-\gamma_{n} = \frac{ \left | \left (\mathbf x_{n} - \mathbf x_{n-1} \right )^T \left [\nabla F (\mathbf x_{n}) - \nabla F (\mathbf x_{n-1}) \right ] \right |}{\left \|\nabla F(\mathbf{x}_{n}) - \nabla F(\mathbf{x}_{n-1}) \right \|^3}
-$$
-
-
-<font color='red'> approximation algorithms and combinatorial optimization </font>\
