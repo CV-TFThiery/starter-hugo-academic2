@@ -49,6 +49,8 @@ R﻿ed colored text\
 {﻿style="color: red"}\
 \
 {{< highlight go >}} A bunch of code here {{< /highlight >}}\
+<font color='red'>test blue color font</font>\
+**My Bold Text, in red color.**{: style="color: red; opacity: 0.80;" }\
 
 A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the computational complexity and the approximability of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice and devising fast and efficient algorithms.
 
