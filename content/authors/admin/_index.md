@@ -43,7 +43,7 @@ highlight_name: true
 first_name: Alice
 email: ""
 ---
-<div style="text-align: justify"> My research interests include <font color='red'> approximation algorithms and combinatorial optimization </font>\. More specifically, I am particularly interested in the design of efficient algorithms with provable guarantees for problems motivated by theory, data analysis, and machine learning applications. </div>
+<div style="text-align: justify"> My research interests include <font color='red'> approximation algorithms and combinatorial optimization </font>. More specifically, I am particularly interested in the design of efficient algorithms with provable guarantees for problems motivated by theory, data analysis, and machine learning applications. </div>
 
 
 <div style="text-align: justify"> A large body of my research is devoted to classical combinatorial optimization, the goal of which is to study the computational complexity and the approximability of a given problem. Another portion is tailored to real-world applications in AI and ML and seeks to explain the success of heuristics in practice and devising fast and efficient algorithms.</div>
