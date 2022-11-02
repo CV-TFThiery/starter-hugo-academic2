@@ -9,7 +9,7 @@ abstract: >-
   developing a novel distorted local search. Our algorithms have optimal
   asymptotic guarantees.
 
-  The central piece of our work is the introduction of a novel data-dependent parameter extending Das and Kempe's definition [https://arxiv.org/abs/1102.3975]. In the regression problem, this parameter is connected to the minimum $k$-sparse eigenvalue of the covariance matrix. We obtain similar results that Bayesian A-optimal Design and Column Subset Selection leading to new guarantees for these problems as well.
+  The central piece of our work is the introduction of a novel data-dependent parameter extending Das and Kempe's definition [paper$\url{https://arxiv.org/abs/1102.3975}$]. In the regression problem, this parameter is connected to the minimum $k$-sparse eigenvalue of the covariance matrix. We obtain similar results that Bayesian A-optimal Design and Column Subset Selection leading to new guarantees for these problems as well.
 slides: example
 url_pdf: ""
 publication_types:
