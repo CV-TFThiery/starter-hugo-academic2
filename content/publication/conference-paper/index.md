@@ -1,15 +1,15 @@
 ---
 abstract: >-
   Given a variable of interest, we would like to find the best linear predictor
-  for it by choosing a subset of k relevant variables obeying a matroid
+  for it by choosing a subset of $k$ relevant variables obeying a matroid
   constraint. This problem is a natural generalization of subset selection
   problems where it is necessary to spread observations amongst multiple
   different classes. We derive new and strengthened guarantees for this problem
-  by improving the analysis of the Residual Random Greedy and by developing a
-  novel distorted local search. Our algorithms have optimal asymptotic
-  guarantees.
+  by improving the analysis of the $\textsc{Residual Random Greedy}$ and by
+  developing a novel distorted local search. Our algorithms have optimal
+  asymptotic guarantees.
 
-  The central piece of our work is the introduction of a novel data-dependent parameter extending  Das and Kempe's definition [paper]. In the regression problem, this parameter is connected to the minimum k-sparse eigenvalue of the covariance matrix. We obtain similar results that Bayesian A-optimal Design and Column Subset Selection leading to new guarantees for these problems as well.
+  The central piece of our work is the introduction of a novel data-dependent parameter extending Das and Kempe's definition [https://arxiv.org/abs/1102.3975]. In the regression problem, this parameter is connected to the minimum $k$-sparse eigenvalue of the covariance matrix. We obtain similar results that Bayesian A-optimal Design and Column Subset Selection leading to new guarantees for these problems as well.
 slides: example
 url_pdf: ""
 publication_types:
@@ -40,7 +40,9 @@ tags:
 projects:
   - Weak-Submodularity
 image:
-  caption: "Image credit: [**Unsplash**](https://unsplash.com/photos/pLCdAaMFLTE)"
+  caption: "Image credit:
+    [**Wikipedia**](https://fr.wikipedia.org/wiki/R%C3%A9gression_(statistiques\
+    ))"
   focal_point: ""
   preview_only: false
   filename: https://fr.wikipedia.org/wiki/R%C3%A9gression_(statistiques)#/media/Fichier:Linear_regression.svg
