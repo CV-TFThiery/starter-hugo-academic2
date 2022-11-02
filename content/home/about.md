@@ -2,7 +2,7 @@
 widget: about
 active: true
 author: admin
-widget_id: Theophile Thiery
+widget_id: About Me
 headless: true
 weight: 20
 title: Theophile Thiery
